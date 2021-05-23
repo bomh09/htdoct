@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36023ab6-ae7e-425e-b754-b7d599b26f00" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="PHP view" />
+        <option value="My template" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1ftcinLHaZfMM9HBUVQkcDbCJ7v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\OneDrive\TuHocICT\LearnPHP\Web\BookmanV1\data" />
+      <recent name="E:\OneDrive\TuHocICT\LearnPHP\Web\Get-App\book" />
+      <recent name="E:\OneDrive\TuHocICT\LearnPHP\Web\Template" />
+      <recent name="E:\OneDrive\TuHocICT\LearnPHP\Web\Template\common" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\OneDrive\TuHocICT\LearnPHP\Web\BookmanV1" />
+      <recent name="C:\Users\admin\OneDrive\TuHocICT\LearnPHP\Web\BookmanV1\book" />
+      <recent name="E:\OneDrive\TuHocICT\LearnPHP\Web\Get-App" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36023ab6-ae7e-425e-b754-b7d599b26f00" name="Default Changelist" comment="" />
+      <created>1597040958907</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597040958907</updated>
+      <workItem from="1597040959962" duration="7885000" />
+      <workItem from="1597051166878" duration="4710000" />
+      <workItem from="1597061686777" duration="2251000" />
+      <workItem from="1597069634229" duration="832000" />
+      <workItem from="1597110722076" duration="16090000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="659" y="346" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597069681027">
+      <screen x="0" y="0" width="1858" height="1200" />
+    </state>
+    <state x="659" y="346" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1858.1200/1982.125.1858.1080@0.0.1858.1200" timestamp="1597069681027" />
+    <state x="92" y="92" width="1736" height="976" key="DirDiffDialog" timestamp="1597063885023">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="92" y="92" width="1736" height="976" key="DirDiffDialog/0.0.1920.1160/1920.125.1920.1040@0.0.1920.1160" timestamp="1597063885023" />
+    <state x="526" y="184" key="FileChooserDialogImpl" timestamp="1597116972212">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="526" y="184" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597116972212" />
+    <state x="740" y="293" key="FileChooserDialogImpl/0.0.1920.1160/1920.125.1920.1040@0.0.1920.1160" timestamp="1597061488360" />
+    <state x="794" y="494" key="NewPhpFileDialog" timestamp="1597065177738">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="794" y="494" key="NewPhpFileDialog/0.0.1920.1160/1920.125.1920.1040@0.0.1920.1160" timestamp="1597065177738" />
+    <state x="2714" y="568" key="NewPhpFileDialog/0.0.1920.1160/1920.125.1920.1040@1920.125.1920.1040" timestamp="1597043411848" />
+    <state x="217" y="11" width="916" height="708" key="SettingsEditor" timestamp="1597112392060">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="217" y="11" width="916" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597112392060" />
+    <state x="446" y="189" key="SettingsEditor/0.0.1858.1200/1982.125.1858.1080@0.0.1858.1200" timestamp="1597069832297" />
+    <state x="461" y="183" key="SettingsEditor/0.0.1920.1160/1920.125.1920.1040@0.0.1920.1160" timestamp="1597063415973" />
+    <state x="2381" y="289" key="SettingsEditor/0.0.1920.1160/1920.125.1920.1040@1920.125.1920.1040" timestamp="1597041191549" />
+  </component>
+</project>

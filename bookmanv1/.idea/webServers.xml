@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="01cbf652-9a1b-4f2a-99fb-61cb6c3f9aa7" name="XAMPP" url="http://localhost/bookmanv1">
+        <fileTransfer mountedRoot="E:\XAMPP\htdocs\BookManV1" accessType="MOUNT" port="0" />
+      </webServer>
+      <webServer id="8b09ff54-6d3e-44d7-a381-66ae23ee6985" name="XAMPP-lab" url="http://localhost/BookManV1">
+        <fileTransfer mountedRoot="C:\XAMPP\htdocs\BookManV1" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>

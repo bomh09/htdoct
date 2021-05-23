@@ -1,0 +1,30 @@
+{
+    "1": {
+        "title": "PHP programming for dummy",
+        "authors": "Trump D.",
+        "publisher": "Washington",
+        "year": 2020,
+        "description": "The best programming book ever written by a US president!"
+    },
+    "2": {
+        "title": "C# programming for dummy",
+        "authors": "Trump D.",
+        "publisher": "Washington",
+        "year": 2020,
+        "description": "The best programming book ever written by a US president!"
+    },
+    "3": {
+        "title": "Python programming for dummy",
+        "authors": "Trump D.",
+        "publisher": "Washington",
+        "year": 2020,
+        "description": "The best programming book ever written by a US president!"
+    },
+    "4": {
+        "title": "Java programming for dummy",
+        "authors": "Trump D.",
+        "publisher": "Washington",
+        "year": 2020,
+        "description": "The best programming book ever written by a US president!"
+    }
+}

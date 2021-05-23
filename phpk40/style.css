@@ -1,0 +1,141 @@
+body {
+    font-family: Algerian !important;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.navbar-default {
+    margin-bottom: 0 !important;
+    border: none !important;
+    background-color: rgba(200, 200, 200, 0.4) !important;
+    color: #333;
+    width: 100%;
+    position: absolute !important;
+    top: 0;
+}
+
+.navbar-brand:hover {
+    color: #fff !important;
+}
+
+nav a {
+    font-size: 25px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #000 !important;
+}
+
+.navbar-nav li a {
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #000 !important;
+}
+
+.navbar-nav li a:hover {
+    color: #fff !important;
+}
+
+#banner {
+    margin-bottom: 30px;
+}
+
+#banner img {
+    width: 100%;
+    height: 100vh;
+}
+
+.banner-content {
+    position: absolute;
+    top: 40%;
+    left: 34%;
+    background-color: rgba(200, 200, 200, 0.4) !important;
+    color: #000;
+    text-align: center;
+    padding: 20px 30px;
+    border-radius: 10px;
+}
+
+.banner-content .view-button {
+    margin-top: 10px;
+    margin-bottom: 0;
+    padding: 7px 20px;
+    display: inline-block;
+    background: #e5e5e5;
+    border-radius: 50px;
+}
+
+.banner-content .view-button:hover {
+    cursor: pointer;
+    background: #000;
+    color: #e5e5e5;
+}
+
+#about,
+#contact {
+    padding: 0 20px;
+    margin-bottom: 30px;
+}
+
+.text-title {
+    font-weight: 600px;
+    text-transform: uppercase;
+    padding-bottom: 20px;
+}
+
+#about p {
+    text-align: center;
+    color: #777;
+}
+
+.product-item {
+    text-align: center;
+    margin: 10px 20px;
+    margin-bottom: 30px;
+    background: #e5e5e5;
+    border-radius: 5px;
+}
+
+.product-item:hover {
+    margin-top: 0;
+    border: 1px solid #777;
+}
+
+.product-item img {
+    padding-top: 15px;
+}
+
+.product-item h2 {
+    font-size: 18px;
+    padding: 10px 15px;
+}
+
+.product-item h2 a {
+    text-decoration: none;
+    color: #000;
+}
+
+.product-item h2 a:hover {
+    color: #337ab7;
+}
+
+.product-item p {
+    padding: 10px 15px;
+    font-size: 13px;
+    color: #777;
+}
+
+footer {
+    background: #333;
+}
+
+.copyright {
+    padding: 20px;
+    color: #fff;
+    font-size: 12px;
+    font-style: italic;
+}

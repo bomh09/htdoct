@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <p>Tuổi</p>
+    <p id="age">19</p>
+    <h3 id="demo"></h3>
+    <p class="class"></p>
+    <button onclick="myfunction()">Try it</button>
+    <script>
+        function myfunction() {
+            var age, voteable;
+            age = document.getElementById("age").textContent;
+            voteable = (age < 18) ? "Too young" : "old enought";
+            document.getElementById("demo").innerHTML = voteable;
+
+
+        }
+        document.getElementsByClassName("class").textContent = "hello";
+        document.getElementById("demo").innerHTML = "heloo";
+    </script>
+
+</body>
+
+</html>
